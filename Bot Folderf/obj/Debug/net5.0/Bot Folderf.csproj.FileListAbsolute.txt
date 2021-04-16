@@ -1,0 +1,19 @@
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.exe
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.deps.json
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.runtimeconfig.json
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.runtimeconfig.dev.json
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\ref\Bot Folderf.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Bot Folderf.pdb
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.csprojAssemblyReference.cache
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.AssemblyInfoInputs.cache
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.AssemblyInfo.cs
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.csproj.CopyComplete
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\ref\Bot Folderf.dll
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.pdb
+C:\Users\Nicholas Choi\Documents\C# Selenium Bot\Bot Folderf\obj\Debug\net5.0\Bot Folderf.genruntimeconfig.cache
